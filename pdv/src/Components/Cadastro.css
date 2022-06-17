@@ -7,10 +7,15 @@ body {
   );
 }
 
+h2 {
+  text-align: center;
+}
+
 .container {
   display: flex;
   justify-content: center;
-  margin: 5% auto;
+  text-align: center;
+  margin: 5%;
   border-style: none;
 }
 
@@ -18,7 +23,7 @@ input {
   width: 60%;
   height: 15%;
   text-align: center;
-  margin-top: 0.5rem;
+  margin-top: 0.9rem;
   border-radius: 5px;
   box-shadow: none;
   border: none;
