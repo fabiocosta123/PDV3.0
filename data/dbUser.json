@@ -1,0 +1,36 @@
+{
+  "user": [
+    {
+      "id": 1,
+      "name": "fabio",
+      "email": "fabio@gmail.com",
+      "fone": 13996285971,
+      "usuario": "fab",
+      "password": 1212
+    },
+    {
+      "id": 2,
+      "name": "juliana",
+      "email": "juliana@gmail.com",
+      "fone": 13996378295,
+      "usuario": "july",
+      "password": 1111
+    },
+    {
+      "name": "ana julia",
+      "email": "ana@gmail.com",
+      "fone": "1398765656",
+      "usuario": "aninha",
+      "password": "3234",
+      "id": 3
+    },
+    {
+      "name": "gabriel",
+      "email": "gabriel@gmail.com",
+      "fone": "1396786789",
+      "usuario": "gael",
+      "password": "453654",
+      "id": 4
+    }
+  ]
+}
