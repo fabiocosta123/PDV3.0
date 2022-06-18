@@ -1,0 +1,45 @@
+{
+  "usuarios": [
+    {
+      "id": 1,
+      "name": "Fábio",
+      "email": "fabio@gmail.com",
+      "fone": 13996285971,
+      "user": "fabio123",
+      "password": 1234
+    },
+    {
+      "id": 2,
+      "name": "Juliana",
+      "email": "juliana@gmail.com",
+      "fone": 13996285972,
+      "user": "juliana123",
+      "password": 12345
+    },
+    {
+      "name": "bela vista",
+      "email": "belavista@gmail.com",
+      "fone": "1338223132",
+      "user": [
+        {
+          "id": 1,
+          "name": "Fábio",
+          "email": "fabio@gmail.com",
+          "fone": 13996285971,
+          "user": "fabio123",
+          "password": 1234
+        },
+        {
+          "id": 2,
+          "name": "Juliana",
+          "email": "juliana@gmail.com",
+          "fone": 13996285972,
+          "user": "juliana123",
+          "password": 12345
+        }
+      ],
+      "password": "1234",
+      "id": 3
+    }
+  ]
+}
