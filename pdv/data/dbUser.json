@@ -17,9 +17,9 @@
       "password": 12345
     },
     {
-      "name": "bela vista",
-      "email": "belavista@gmail.com",
-      "fone": "1338223132",
+      "name": "stone",
+      "email": "livrariaabraao@outlook.com.br",
+      "fone": "13996285971",
       "user": [
         {
           "id": 1,
@@ -38,7 +38,7 @@
           "password": 12345
         }
       ],
-      "password": "1234",
+      "password": "2342",
       "id": 3
     }
   ]
