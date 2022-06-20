@@ -15,31 +15,6 @@
       "fone": 13996285972,
       "user": "juliana123",
       "password": 12345
-    },
-    {
-      "name": "stone",
-      "email": "livrariaabraao@outlook.com.br",
-      "fone": "13996285971",
-      "user": [
-        {
-          "id": 1,
-          "name": "Fábio",
-          "email": "fabio@gmail.com",
-          "fone": 13996285971,
-          "user": "fabio123",
-          "password": 1234
-        },
-        {
-          "id": 2,
-          "name": "Juliana",
-          "email": "juliana@gmail.com",
-          "fone": 13996285972,
-          "user": "juliana123",
-          "password": 12345
-        }
-      ],
-      "password": "2342",
-      "id": 3
     }
   ]
 }

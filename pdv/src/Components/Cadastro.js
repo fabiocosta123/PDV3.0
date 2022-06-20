@@ -44,7 +44,7 @@ const Cadastro = () => {
 
   async function handleSubmit(e) {
     e.preventDefault();
-
+    clearForm();
     const cadastro = {
       name,
       email,
@@ -52,6 +52,7 @@ const Cadastro = () => {
       user,
       password,
     };
+
     const res = await fetch(url, {
       method: "POST",
       headers: {
@@ -62,6 +63,15 @@ const Cadastro = () => {
 
     console.log(cadastro, res);
   }
+
+  //limpar Formulário
+  const clearForm = () => {
+    setName("");
+    setEmail("");
+    setFone("");
+    setUsuario("");
+    setPassword("");
+  };
 
   return (
     <div>
